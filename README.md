@@ -8,7 +8,7 @@ This repository contains the simulation source code for estimation-based formati
 
 Click the image below to watch on Youtube.
 
-[![Simulation Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Simulation Video](https://img.youtube.com/vi/0VggcP6UHuI/0.jpg)](https://www.youtube.com/watch?v=0VggcP6UHuI)
 
 > **Note:** Video will be updated later.
 
